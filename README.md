@@ -19,10 +19,11 @@ Currently, I'm exploring cloud-native development and working toward my AWS Deve
 
 🛠️ Tech Stack  
 Languages: Java ☕ | Python 🐍 | JavaScript 🌐 | TypeScript 🧩  
-Frameworks: Spring Boot 🌱 | Angular 🅰️
-Databases: MySQL 🐬 | PostgreSQL 🐘 | DynamoDB ⚡
-Cloud/DevOps: AWS ☁️ | Docker 🐳 | Kubernetes 📦 | GitHub Actions ⚙️
-Messaging: ActiveMQ 📬 | Apache Kafka 🧃
-Security: OAuth 2.0 🔐 | JWT 🛡️
-Version Control: Git 🌀
-Tools: Jira 📋 | Confluence 🗂️
+Frameworks: Spring Boot 🌱 | Angular 🅰️  
+Databases: MySQL 🐬 | PostgreSQL 🐘 | DynamoDB ⚡  
+Cloud/DevOps: AWS ☁️ | Docker 🐳 | Kubernetes 📦 | GitHub Actions ⚙️  
+Messaging: ActiveMQ 📬 | Apache Kafka 🧃  
+Security: OAuth 2.0 🔐 | JWT 🛡️  
+Version Control: Git 🌀  
+Tools: Jira 📋 | Confluence 🗂️  
+
