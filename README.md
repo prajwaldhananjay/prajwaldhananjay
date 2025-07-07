@@ -18,12 +18,12 @@ I am a software engineer with 3+ years of experience building scalable, reliable
 Currently, I'm exploring cloud-native development and working toward my AWS Developer Associate certification.
 
 🛠️ Tech Stack  
-Languages: Java ☕ | Python 🐍 | JavaScript 🌐 | TypeScript 🧩  
-Frameworks: Spring Boot 🌱 | Angular 🅰️  
-Databases: MySQL 🐬 | PostgreSQL 🐘 | DynamoDB ⚡  
-Cloud/DevOps: AWS ☁️ | Docker 🐳 | Kubernetes 📦 | GitHub Actions ⚙️  
-Messaging: ActiveMQ 📬 | Apache Kafka 🧃  
-Security: OAuth 2.0 🔐 | JWT 🛡️  
-Version Control: Git 🌀  
-Tools: Jira 📋 | Confluence 🗂️  
+**Languages** : Java ☕ | Python 🐍 | JavaScript 🌐 | TypeScript 🧩  
+**Frameworks** : Spring Boot 🌱 | Angular 🅰️  
+**Databases** : MySQL 🐬 | PostgreSQL 🐘 | DynamoDB ⚡  
+**Cloud/DevOps** : AWS ☁️ | Docker 🐳 | Kubernetes 📦 | GitHub Actions ⚙️  
+**Messaging** : ActiveMQ 📬  
+**Security** : OAuth 2.0 🔐 | JWT 🛡️  
+**Version Control** : Git 🌀  
+**Tools** : Jira 📋 | Confluence 🗂️  
 
