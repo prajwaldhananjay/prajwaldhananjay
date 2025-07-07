@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I am a software engineer with 3+ years of experience building scalable, reliable systems using Java, Spring Boot, and SQL. I care deeply about clean architecture, well-tested code, and building products that solve real problems.  
 Currently, I'm exploring cloud-native development and working toward my AWS Developer Associate certification.
 
-🛠️ Tech Stack  
+🛠️ **Tech Stack**  
 **Languages** : Java ☕ | Python 🐍 | JavaScript 🌐 | TypeScript 🧩  
 **Frameworks** : Spring Boot 🌱 | Angular 🅰️  
 **Databases** : MySQL 🐬 | PostgreSQL 🐘 | DynamoDB ⚡  
