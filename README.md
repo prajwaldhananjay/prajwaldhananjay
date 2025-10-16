@@ -24,8 +24,8 @@ Java • Spring Boot • REST APIs • SQL optimization • TDD • Microservice
 reachprajwald@gmail.com
 
 🛠️ **Tech Stack**  
-**Languages** : Java ☕ | Python 🐍 | JavaScript 🌐 | TypeScript 🧩  
-**Frameworks** : Spring Boot 🌱 | Angular 🅰️  
+**Languages** : Java ☕ | Python 🐍 | JavaScript 🌐 | Kotlin  
+**Frameworks** : Spring Boot 🌱 | AngularJS 🅰️  
 **Databases** : MySQL 🐬 | PostgreSQL 🐘 | DynamoDB ⚡  
 **Cloud/DevOps** : AWS ☁️ | Docker 🐳 | Kubernetes 📦 | GitHub Actions ⚙️  
 **Messaging** : ActiveMQ 📬  
